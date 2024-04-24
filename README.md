@@ -1,6 +1,13 @@
 # Hi there 👋 , I'm Leo!
 I'm from Esa Unggul University with a primary expertise in web development. I possess a deep knowledge of programming languages such as PHP, C++, JavaScript, and the Laravel framework. I have a solid experience in developing innovative and efficient web solutions while ensuring an optimal user experience. I'm always open to new opportunities in this industry and ready to contribute to challenging projects.
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+
 - 🔭 I’m currently working on **Web Developer**
 
 - 👯 I’m looking to collaborate on **UI/UX**
