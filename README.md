@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Leo!</h1>
-<h3 align="center">I'm from Esa Unggul University with a primary expertise in web development. I possess a deep knowledge of programming languages such as PHP, C++, JavaScript, and the Laravel framework. I have a solid experience in developing innovative and efficient web solutions while ensuring an optimal user experience. I'm always open to new opportunities in this industry and ready to contribute to challenging projects.</h3>
+# Hi there 👋 , I'm Leo!
+I'm from Esa Unggul University with a primary expertise in web development. I possess a deep knowledge of programming languages such as PHP, C++, JavaScript, and the Laravel framework. I have a solid experience in developing innovative and efficient web solutions while ensuring an optimal user experience. I'm always open to new opportunities in this industry and ready to contribute to challenging projects.
 
 - 🔭 I’m currently working on **Web Developer**
 
