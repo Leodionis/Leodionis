@@ -26,8 +26,8 @@ I'm from Esa Unggul University with a primary expertise in web development. I po
 ### Let's connect!
 <p>
     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.leodionis.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://tw.leodionis82.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://linkedin.leodionis.com" target="blank"><img src="https://img.shields.io/badge/Leodionis-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://tw.leodionis82.com" target="blank"><img src="https://img.shields.io/badge/@leodionis82_-30302f?style=flat&logo=twitter" /></a>
 </p>
 
 <!--
