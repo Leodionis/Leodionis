@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Leo!
 I'm from Esa Unggul University with a primary expertise in web development. I possess a deep knowledge of programming languages such as PHP, C++, JavaScript, and the Laravel framework. I have a solid experience in developing innovative and efficient web solutions while ensuring an optimal user experience. I'm always open to new opportunities in this industry and ready to contribute to challenging projects.
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif">
 
 ### Tools:
 <p>
