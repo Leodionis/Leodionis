@@ -18,8 +18,6 @@ I'm from Esa Unggul University with a primary expertise in web development. I po
 
 - 📫 How to reach me **leodionis182@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FJkz9W2Dis9_r68JXTjpxBBGc67_JzTN/view](https://drive.google.com/file/d/1N0tuD9WTiUC1V4sh0CP1bZMWn695hiBR/view?usp=sharing)
-
 - ⚡ Fun fact **...**
 
 <h3 align="left">Connect with me:</h3>
