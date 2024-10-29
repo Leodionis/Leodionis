@@ -24,7 +24,6 @@ I'm from Esa Unggul University with a primary expertise in web development. I po
 <p align="left">
 <a href="https://linkedin.com/in/leodionis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leodionis" height="30" width="40" /></a>
 <a href="https://instagram.com/leodioniss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leodioniss" height="30" width="40" /></a>
-<a href="www.youtube.com/@Leodionis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leodionis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
