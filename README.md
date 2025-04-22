@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Leo!
-Hello! I'm Leodionis, a software engineering professional with a strong academic background. I'm currently pursuing a Bachelor of Software Engineering from Universitas Esa Unggul. As a software developer, I have experience in TypeScript, TailwindCSS, and JavaScript. I specialize in frameworks such as React, Node.js, Next.js, and Three.js. My knowledge extends to fundamental data structures and algorithms, making me well-versed in frontend web development.
-Let's collaborate to bring your ideas to life!
+Hello! I'm Leodionis, Graduate of Informatics Engineering from Esa Unggul University with experience as a web developer and expertise in data analysis. Proficient in React JS, Python, PHP, JavaScript, C++, SQL, and Laravel, with a strong background in developing innovative and efficient web solutions while ensuring an optimal user experience. Always open to new opportunities in the industry and ready to contribute to challenging projects. Skilled in both teamwork and independent work, with a commitment to collaborating with stakeholders to understand needs and deliver solutions that exceed expectations. Highly enthusiastic about exploring the latest technologies and techniques, continuously improving skills to stay at the forefront of this dynamic field.
+
 <img align="right" alt="Coding" width="350" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif">
 
 ### Tools:
